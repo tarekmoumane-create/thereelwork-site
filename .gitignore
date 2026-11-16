@@ -1,0 +1,14 @@
+.vercel
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+logs/
+.DS_Store
+__pycache__/
+.vercel/
+*.mp4
+*.mov
+.next/
+dist/
